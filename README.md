@@ -50,7 +50,7 @@ Telegram is banned in several countries, in India Telegram is blocked on several
 | Netlify      | https://venus.web.telegram.org | https://venus-0.netlify.app
 | Netlify      | https://venus-1.web.telegram.org | https://venus-1.netlify.app
 | Netlify      | https://vesta.web.telegram.org | https://vesta-0.netlify.app
-| Netlify      | https://vesta-1.web.telegram.org | https://vesta-0-1.netlify.app
+| Netlify      | https://vesta-1.web.telegram.org | https://vesta-1.netlify.app
 
 ````
 * is pluto, venus, aurora, vesta, flora, pluto-1, venus-1, aurora-1, vesta-1 and flora-1
