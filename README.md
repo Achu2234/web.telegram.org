@@ -35,7 +35,22 @@ Telegram is banned in several countries, in India Telegram is blocked on several
 | Netlify      | https://telegram-web.ga | /api/* | 100 GB
 | Netlify      | https://telegram-web.cf | /api/* | 100 GB
 | Netlify      | https://telegram-web.gq | /api/* | 100 GB
-| Vercel      | https://web-telegram-org.vercel.app | /api/* | 1000 GB
+| Vercel      | https://web-telegram-org.vercel.app (Down) | /api/* | 100 GB
+
+### APIs for Testing
+
+| Hosted on        | Original API           | Proxied API (100GB/Site/Month)
+| ------------- |-------------|-------------:|
+| Netlify      | https://aurora.web.telegram.org | https://aurora-0.netlify.app
+| Netlify      | https://aurora-1.web.telegram.org | https://aurora-1.netlify.app
+| Netlify      | https://flora.web.telegram.org | https://flora-0.netlify.app
+| Netlify      | https://flora-1.web.telegram.org | https://flora-1.netlify.app
+| Netlify      | https://pluto.web.telegram.org | https://pluto-0.netlify.app
+| Netlify      | https://pluto-1.web.telegram.org | https://pluto-1.netlify.app
+| Netlify      | https://venus.web.telegram.org | https://venus-0.netlify.app
+| Netlify      | https://venus-1.web.telegram.org | https://venus-1.netlify.app
+| Netlify      | https://vesta.web.telegram.org | https://vesta-0.netlify.app
+| Netlify      | https://vesta-1.web.telegram.org | https://vesta-0-1.netlify.app
 
 ````
 * is pluto, venus, aurora, vesta, flora, pluto-1, venus-1, aurora-1, vesta-1 and flora-1
