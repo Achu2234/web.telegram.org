@@ -39,18 +39,18 @@ Telegram is banned in several countries, in India Telegram is blocked on several
 
 ### APIs for Testing
 
-| Hosted on        | Original API           | Proxied API (100GB/Site/Month)
-| ------------- |-------------|-------------:|
-| Netlify      | https://aurora.web.telegram.org | https://aurora-0.netlify.app
-| Netlify      | https://aurora-1.web.telegram.org | https://aurora-1.netlify.app
-| Netlify      | https://flora.web.telegram.org | https://flora-0.netlify.app
-| Netlify      | https://flora-1.web.telegram.org | https://flora-1.netlify.app
-| Netlify      | https://pluto.web.telegram.org | https://pluto-0.netlify.app
-| Netlify      | https://pluto-1.web.telegram.org | https://pluto-1.netlify.app
-| Netlify      | https://venus.web.telegram.org | https://venus-0.netlify.app
-| Netlify      | https://venus-1.web.telegram.org | https://venus-1.netlify.app
-| Netlify      | https://vesta.web.telegram.org | https://vesta-0.netlify.app
-| Netlify      | https://vesta-1.web.telegram.org | https://vesta-1.netlify.app
+| Hosted on        | Original API           | Proxied API (100GB/Site/Month) | Proxied API (400GB/All Below Sites)
+| ------------- |-------------|-------------|-------------:|
+| Netlify      | https://aurora.web.telegram.org | https://aurora-0.netlify.app | https://aurora.web.telegram.ind.in
+| Netlify      | https://aurora-1.web.telegram.org | https://aurora-1.netlify.app | https://aurora-1.web.telegram.ind.in
+| Netlify      | https://flora.web.telegram.org | https://flora-0.netlify.app | https://flora.web.telegram.ind.in
+| Netlify      | https://flora-1.web.telegram.org | https://flora-1.netlify.app | https://flora-1.web.telegram.ind.in
+| Netlify      | https://pluto.web.telegram.org | https://pluto-0.netlify.app | https://pluto.web.telegram.ind.in
+| Netlify      | https://pluto-1.web.telegram.org | https://pluto-1.netlify.app | https://pluto-1.web.telegram.ind.in
+| Netlify      | https://venus.web.telegram.org | https://venus-0.netlify.app | https://venus.web.telegram.ind.in
+| Netlify      | https://venus-1.web.telegram.org | https://venus-1.netlify.app | https://venus-1.web.telegram.ind.in
+| Netlify      | https://vesta.web.telegram.org | https://vesta-0.netlify.app | https://vesta.web.telegram.ind.in
+| Netlify      | https://vesta-1.web.telegram.org | https://vesta-1.netlify.app | https://vesta-1.web.telegram.ind.in
 
 ````
 * is pluto, venus, aurora, vesta, flora, pluto-1, venus-1, aurora-1, vesta-1 and flora-1
