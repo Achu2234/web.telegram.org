@@ -13,7 +13,7 @@ https://web.telegram.ind.in
 
 ## Why this Repo?
 
-Telegram is banned in several countries, in India Telegram is blocked on several networks including Jio and Airtel. So in this repo i will continuously provide new domains to access Telegram without compromising privacy or security of your data. You can now create your own telegram app on your custom domain so bypass blocks.
+Telegram is banned in several countries, in India Telegram is blocked on several networks including Jio and Airtel. So in this repo i will continuously provide new domains to access Telegram without compromising privacy or security of your data. You can now create your own telegram app on your custom domain to bypass blocks.
 
 ## Blocked URLs by Different Countries
 
